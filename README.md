@@ -1,2 +1,2 @@
-# jquery-galleries
-jQuery Photo Galleries Plugin
+# jquery-plugin-name
+jQuery Plugin Description
